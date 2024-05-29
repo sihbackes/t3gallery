@@ -14,6 +14,9 @@ function TopNav(){
       <div>
         Gallery
       </div>
+      <div>
+        Sign In
+      </div>
     </nav>
   )
 }
